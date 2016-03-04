@@ -1,0 +1,39 @@
+@import url(http://weloveiconfonts.com/api/?family=fontawesome);
+
+body {
+	background: #bdc3c7;
+	color: #000;
+	font: 16px/1.5em sans-serif;
+  	margin: 0;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.btn-info {
+	width:236px;
+	height: 236px;
+	padding-top: 70px;	
+}
+
+.init{
+	padding-left: 220px;
+	padding-top: 30px;
+}
+
+.dash {
+	font-size: 80px;
+	margin-bottom: 16px;
+}
+
+.row > div {
+    padding: 5px;
+}
+
+#main{
+	margin-top: 50px;
+}
+
+
