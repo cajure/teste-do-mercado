@@ -4,6 +4,7 @@ Desafio
 O nosso desafio é criar uma simples aplicação web e “comitar” no GitHub .
 
 Para que possamos conhecer um pouco mais sobre o seu trabalho, e mais especificamente sobre as suas habilidades de desenvolvimento de software, preparamos essa atividade bem simples, que poderá nos mostrar um pouco sobre a maneira que você organiza o seu código, a legibilidade dele, etc.
+
 1. Você deve criar um projeto no seu git-hub chamado teste-do-mercado e subir o código fonte.
 2. Você deve deixar o projeto rodando para que seja acessado pela equipe via Internet (pode usarAWS, RackSpace, Linode, openshift, Heroku, etc.)
 
